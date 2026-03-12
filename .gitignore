@@ -1,0 +1,13 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+
+data/raw/*
+data/processed/*
+data/features/*
+data/datasets/*
+
+artifacts/models/*
+artifacts/reports/*
+artifacts/scalers/*
